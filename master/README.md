@@ -1,0 +1,1 @@
+upscaling-realesrgan binary 程序需要GLIB2.29的支持

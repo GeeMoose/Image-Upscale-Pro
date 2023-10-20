@@ -1,0 +1,8 @@
+# ignored big file
+master/gfpgan/*
+master/nohup.out
+models/GFPGANv1.3.pth
+models/GFPGANv1.4.pth
+logs/*
+assets/*
+output/*
